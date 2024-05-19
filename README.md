@@ -2,20 +2,28 @@
 
 <h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable!</h3>
 
-<p align="center">
+<h4 align="center">
+    <a href="https://puter.com"> 
+        <img src="https://img.shields.io/badge/puter.com-00AEE2?style=flat&logo=web" alt="puter.com" />
+    </a>
+    <a href="https://docs.puter.com" target="_blank">
+        <img src="https://img.shields.io/badge/SDK-gray?style=flat" alt="SDK" />
+    </a>
+</h4>
+<h4 align="center">
     <a href="https://puter.com/"><strong>« LIVE DEMO »</strong></a>
     <br />
     <br />
-    <a href="https://puter.com">Puter.com</a>
-    ·
-    <a href="https://docs.puter.com" target="_blank">SDK</a>
-    ·
-    <a href="https://discord.com/invite/PQcx7Teh8u">Discord</a>
-    ·
-    <a href="https://reddit.com/r/puter">Reddit</a>
-    ·
-    <a href="https://twitter.com/HeyPuter">X (Twitter)</a>
-</p>
+    <a href="https://discord.com/invite/PQcx7Teh8u">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+    </a>
+    <a href="https://reddit.com/r/puter">
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"/>
+    </a>
+    <a href="https://twitter.com/HeyPuter">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x"/>
+    </a>
+</h4>
 
 <h3 align="center"><img width="700" style="border-radius:5px;" alt="screenshot" src="https://assets.puter.site/puter.com-screenshot-2.webp"></h3>
 
